@@ -1,3 +1,5 @@
+import '../../App.css'
+import '../layout/Footer.css'
 const Footer = (props) => {
     return( <h1><footer>
         <div className="container-footer">

@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+img {
+  border-style: none;
+  max-width: 100%;
+}
+body {
+  margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+* {
+  font-family: 'Poppins', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+/*BOTONES*/
+/* button {
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: 1px solid rgba(0, 0, 0, 0.5; );
+  box-shadow:2px 2px 10px rgba(0, 0, 0, 0.5;);
+  background: rgb(41, 187, 123);
   color: white;
+  transition: 0.3s;
 }
+button:hover {
+  background: black; */
+  /*padding: 15px 25px;*/
+/* } */
 
-.App-link {
-  color: #61dafb;
-}
+/* @media (min-width:700px) {
+  header{position: fixed;
+  width: 100%;}
+  header .container{flex-direction: row;
+  justify-content: space-between;}
+  header nav {flex-direction: row;
+  padding-bottom: 0;
+padding-right: 20px;}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#gonzalo .gonzalo-container {display: flex;
+justify-content: center;}
+#gonzalo .texto {width: 50%;
+text-align: initial;
+padding: 0px 30px;
+max-width: 600px;
+display: flex;
+justify-content: center;
+flex-direction: column;} 
+.gonzalo-container .img-container {background-image: url(compo/layout/media/programando.jpg);
+background-size: cover;
+background-position: center center;
+height: 400px;
+width: 400px;
+border-radius: 15px;
 }
+} */

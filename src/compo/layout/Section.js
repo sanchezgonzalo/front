@@ -1,3 +1,5 @@
+import '../../App.css'
+import '../layout/Section.css'
 const Section = (props) => {
     return( <h1>
         <section id="gonzalo">

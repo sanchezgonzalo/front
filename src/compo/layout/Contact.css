@@ -1,0 +1,7 @@
+#contacto .container{
+    text-align: center;
+    padding: 150px 200px}
+    #contacto li {margin: 12px 0;
+    font-weight: bold;
+   
+list-style: none;}

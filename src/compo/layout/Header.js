@@ -1,3 +1,5 @@
+import '../../App.css'
+import '../layout/Header.css'
 const Header = (props) => {
     return(  
     <h1> <header>

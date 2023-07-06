@@ -1,0 +1,13 @@
+#caracteristicas .container{text-align:center;
+    padding: 50px 12px;
+    background-image: url(media/progra.jpg);
+    background-position: center center;
+    background-size: cover;
+    margin: 20px 50px;
+    color: white;
+    width: auto;
+    list-style: none;
+    border-radius: 15px;}
+    
+    #caracteristicas li {margin: 12px 0;
+    font-weight: bold;}

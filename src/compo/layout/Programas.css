@@ -1,0 +1,30 @@
+#programas .container{
+    text-align: center;
+    background-color: rgb(30, 30, 30);
+    color: white;
+    padding: 20px 0;
+}
+#programas .cartas{background-position: center center;
+background-size: cover;
+padding: 50px;
+margin: 20px;
+border-radius: 15px;
+}
+
+
+#programas .container{padding: 50px 0px;}
+#programas h2 {margin-top: 0;}
+#programas p{display:none;}
+#programas button {margin-top: 20px;}
+
+.cartas:first-child {
+    background-image: url(media/html-css.jpg);
+}
+
+.cartas:nth-child(2) {
+    background-image: url(media/java.jpg);
+}
+
+.cartas:nth-child(3) {
+    background-image: url(media/python.jpg);
+}

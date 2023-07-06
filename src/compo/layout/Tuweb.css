@@ -1,0 +1,19 @@
+#llama {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(30, 30, 30);
+    color: white;
+    height: 70vh;
+}
+
+#llama button {
+    font-size: 4vw;
+    margin-top: 40px;
+}
+
+#llama h2 {
+    font-size: 9vw;
+}
